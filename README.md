@@ -12,6 +12,6 @@ Supervised Learning
 
 
 -----------------------------
-# Due to size files were not uploaded
+Due to size files were not uploaded
 
-# Analysis: Scaled data overall provided better scores and the best testing score was found by using scaled linear regression.
+Analysis: Scaled data overall provided better scores and the best testing score was found by using scaled linear regression.
