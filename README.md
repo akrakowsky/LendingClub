@@ -7,7 +7,7 @@ Supervised Learning
   3. License
   4. Resources
      1. Generator
-        1. Generate Date
+        1. Generate Data
 
 
 
